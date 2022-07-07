@@ -29,6 +29,9 @@ Install the following required packages:
 ```
 pip install -r requirements.txt
 ```
+```
+conda install -c conda-forge ffmpeg
+```
 
 
 ## Running the code
