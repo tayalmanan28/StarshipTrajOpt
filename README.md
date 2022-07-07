@@ -39,8 +39,8 @@ So, to get the bot to Walk give the following command:
 python3 starship.py
 ```
 ## Graphs
-[Fig_1](media/Figure_1.png)
-[Fig_2](media/Figure_2.png)
+![Fig_1](media/Figure_1.png)
+![Fig_2](media/Figure_2.png)
 
 ## Videos
 
