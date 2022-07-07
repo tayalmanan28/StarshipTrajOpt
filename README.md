@@ -32,9 +32,7 @@ pip install -r requirements.txt
 
 
 ## Running the code
-The Biped can walk, stand, squat, jump with Twist, jump without Twist and Twist its torso
 
-So, to get the bot to Walk give the following command:
 ```
 python3 starship.py
 ```
