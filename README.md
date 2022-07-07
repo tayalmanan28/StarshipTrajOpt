@@ -41,7 +41,7 @@ python3 starship.py
 
 ## Videos
 
-![video](media/video.mp4)
+![video](media/video.gif)
 
 ## Credits: 
 
